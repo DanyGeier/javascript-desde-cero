@@ -1,0 +1,14 @@
+.color-verde{
+    color: green
+}
+
+.borde-rojo{
+    border: 2px solid darkred;
+}
+
+.div-naranja{
+    background-color: darkorange;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+}
